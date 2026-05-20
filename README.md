@@ -64,6 +64,6 @@ of dataset creation
 each table was imported individually to resolve
 
 ## SQL Queries
-See [`olist_analysis.sql`](olist_analysis.sql) for all queries including 
+See [`ecommerce_analysis.sql`](ecommerce_analysis.sql) for all queries including 
 customer LTV analysis, seller performance, category revenue breakdown, 
 and monthly order trends.
